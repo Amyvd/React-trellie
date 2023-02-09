@@ -1,0 +1,18 @@
+.activity{
+    background: #F1F6F5;
+    border-radius: 0.3rem;
+    padding:0.5rem;
+    display:flex;
+    flex-direction: column;
+    gap:0.2rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 0.3rem;
+}
+.activity__label{
+    font-size: 90%;
+    background: #A3F7BF;
+    width:max-content;
+    padding:0.2rem 0.5rem;
+    border-radius: 0.3rem;
+    font-weight: 400;
+}
